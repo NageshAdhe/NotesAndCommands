@@ -33,7 +33,7 @@ For a remote server, use:
 ========================================================================================
 6# Push 
 
-git push origin master: Send changes to the master branch of your remote repository:
+	--git push origin master: Send changes to the master branch of your remote repository:
 ========================================================================================
 7# Status : List the files you've changed and those you still need to add or commit
 
